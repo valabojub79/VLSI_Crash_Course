@@ -1,4 +1,9 @@
 # 2018 硬體設計新生訓練
+聯合實驗室名單:
+1. [簡韶逸老師實驗室](http://media.ee.ntu.edu.tw/)
+1. [盧奕璋老師實驗室](http://async.ee.ntu.edu.tw/)
+1. [劉宗德老師實驗室](http://www.ee.ntu.edu.tw/profile?id=1020909#)
+1. [陳良基老師實驗室](http://video.ee.ntu.edu.tw/)
 
 ## 7/16 (一) @ 博理113
 |Topic|Time|Lecturer|Link|
