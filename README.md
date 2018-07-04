@@ -16,7 +16,7 @@
 ## 07/17 (二) @ 博理113
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Hardware Architecture Design|09:10--10:30|[林裕盛](https://johnjohnlin.github.io/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/hardware_architecture_design.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/hardware_architecture_design.pdf)|
+|Hardware Architecture Design|09:10--10:30|[林裕盛](https://johnjohnlin.github.io/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/hardware_architecture_design.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/hardware_architecture_design.pdf)|
 |Hardware Synthesize|10:40--12:00|鄭瑞軒(劉)||
 |Automatic Place and Route (APR)|13:30--15:20|姚云瀚(劉)、盧真玄(劉)||
 |Practice (Synthesize + APR)|15:30--?????|姚云瀚(劉)|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
@@ -24,7 +24,7 @@
 ## 07/18 (三) @ 博理113
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Basic Hardware Verification Flow|09:10--11:00|[林裕盛](https://johnjohnlin.github.io/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/basic_hardware_verification_flow.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/basic_hardware_verification_flow.pdf)|
+|Basic Hardware Verification Flow|09:10--11:00|[林裕盛](https://johnjohnlin.github.io/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/basic_hardware_verification_flow.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/basic_hardware_verification_flow.pdf)|
 |Practice (Verification)|11:10--???|吳思儀(簡)|[GitHub](https://github.com/mediaic/VLSI_Lab2)|
 
 ## 07/19 (四) @ 博理113
