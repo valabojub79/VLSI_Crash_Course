@@ -5,7 +5,7 @@
 1. [劉宗德老師實驗室](http://www.ee.ntu.edu.tw/profile?id=1020909#)
 1. [陳良基老師實驗室](http://video.ee.ntu.edu.tw/)
 
-*投影片下載帳密請見[臉書社團(https://www.facebook.com/groups/1704925849588531/permalink/1748525388561910/)]
+*投影片下載帳密請見[臉書社團](https://www.facebook.com/groups/1704925849588531/permalink/1748525388561910/)
 
 ## 07/16 (一) @ 博理113
 |Topic|Time|Lecturer|Link|
