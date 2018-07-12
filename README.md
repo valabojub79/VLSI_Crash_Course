@@ -31,3 +31,4 @@
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Practice (Hardware Design Flow)|09:10-???|王健安(盧)、蕭芳宗(盧)|[GitHub](https://github.com/mediaic/VLSI_Lab2)|
+  
