@@ -12,14 +12,14 @@
 |---|:---:|:---:|:---:|
 |Hardware Bascis & Verilog Coding|09:10-11:20|劉承曄(盧)||
 |SystemVerilog Extension|11:30-12:00|[林裕盛](https://johnjohnlin.github.io/)(簡)||
-|Simulation & Debugging Tools|13:30-15:20|劉議隆(劉)||
+|Simulation & Debugging Tools|13:30-15:20|鄭瑞軒(劉)||
 |Practice (RTL)|15:30-???|莊政彥(盧)、[林裕盛](https://johnjohnlin.github.io/)(簡)|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
 
 ## 07/17 (二) @ 博理113
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Hardware Architecture Design|09:10-10:30|[林裕盛](https://johnjohnlin.github.io/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/hardware_architecture_design.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/hardware_architecture_design.pdf)|
-|Hardware Synthesize|10:40-12:00|鄭瑞軒(劉)||
+|Hardware Synthesize|10:40-12:00|劉議隆(劉)||
 |Automatic Place and Route (APR)|13:30-15:20|姚云瀚(劉)、盧真玄(劉)|[PPT*](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/secret/test.pptx), [PDF*](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/secret/test.pdf)|
 |Practice (Synthesize + APR)|15:30-?????|姚云瀚(劉)|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
 
