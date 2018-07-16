@@ -10,9 +10,9 @@
 ## 07/16 (一) @ 博理113
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Hardware Bascis & Verilog Coding|09:10-11:20|劉承曄(盧)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/secret/verilog_and_sv.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/verilog_and_sv.pdf)|
+|Hardware Bascis & Verilog Coding|09:10-11:20|劉承曄(盧)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/verilog_and_sv.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/verilog_and_sv.pdf)|
 |SystemVerilog Extension|11:30-12:00|[林裕盛](https://johnjohnlin.github.io/)(簡)|（續上）|
-|Simulation & Debugging Tools|13:30-15:20|鄭瑞軒(劉)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/secret/simulation_and_debug.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/simulation_and_debug.pdf)|
+|Simulation & Debugging Tools|13:30-15:20|鄭瑞軒(劉)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/simulation_and_debug.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/simulation_and_debug.pdf)|
 |Practice (RTL)|15:30-???|莊政彥(盧)、[林裕盛](https://johnjohnlin.github.io/)(簡)|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
 
 ## 07/17 (二) @ 博理113
