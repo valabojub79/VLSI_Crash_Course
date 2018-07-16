@@ -19,7 +19,7 @@
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Hardware Architecture Design|09:10-10:30|[林裕盛](https://johnjohnlin.github.io/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/hardware_architecture_design.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/hardware_architecture_design.pdf)|
-|Hardware Synthesize|10:40-12:00|劉議隆(劉)||
+|Hardware Synthesize|10:40-12:00|劉議隆(劉)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/VLSI-Crash-Course-Synthesis.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/VLSI-Crash-Course-Synthesis.pdf)|
 |Automatic Place and Route (APR)|13:30-15:20|姚云瀚(劉)、盧真玄(劉)|[PDF*](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/secret/APR.pdf), [REF PDF*](http://media.ee.ntu.edu.tw/crash_course/2018/vlsi/secret/CIC_edi.pdf)|
 |Practice (Synthesize + APR)|15:30-?????|姚云瀚(劉)|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
 
